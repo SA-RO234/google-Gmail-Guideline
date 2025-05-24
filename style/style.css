@@ -621,15 +621,9 @@ h1 {
   .content-wrapper {
     padding: 60px 20px;
   }
-  .content-wrapper h1 {
-    font-size: 5px !important;
-  }
   .title {
     flex-direction: column !important;
     gap: 20px !important;
-  }
-  h1 {
-    font-size: 36px;
   }
 
   .background-graphics {
@@ -685,8 +679,9 @@ h1 {
     padding: 40px 15px;
   }
 
-  h1 {
-    font-size: 28px;
+  .content-wrapper h1 {
+    font-size: 15px !important;
+    color: red !important;
   }
 
   .section-container h1 {
