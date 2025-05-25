@@ -337,6 +337,7 @@ h1 {
 
 /* Content Section Styles */
 .content-section {
+  overflow: auto;
   padding: 60px 0;
   background-color: #fff;
 }
