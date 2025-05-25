@@ -120,7 +120,7 @@ body {
   font-size: 14px;
   padding: 8px 10px;
   border-radius: 6px;
-  transition: background-color 0.2s;
+  transition: background-color 0.2s
 }
 
 .nav-section a:hover {
@@ -337,7 +337,6 @@ h1 {
 
 /* Content Section Styles */
 .content-section {
-  overflow: auto;
   padding: 60px 0;
   background-color: #fff;
 }
@@ -358,6 +357,7 @@ h1 {
 
 .section-content {
   color: #333;
+  overflow: auto;
 }
 
 .section-content h2 {
